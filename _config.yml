@@ -22,7 +22,7 @@ twitter_username: rancher_labs
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal
 gems:
   - jekyll-feed
   - jekyll-sitemap
