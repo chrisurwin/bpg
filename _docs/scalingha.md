@@ -6,7 +6,7 @@ sidebar:
   nav: "docs"
 ---
 
-<p><img src="../../media/image009.png" width="624" height="351" /></p>
+<p><img src="../media/image009.png" width="624" height="351" /></p>
 
 Planning
 Rancher HA creates a cluster channel between cattle component at tcp port 9345. This channel is used to communicate cluster info and coordinate cattle nodes. 

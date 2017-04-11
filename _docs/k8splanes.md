@@ -6,7 +6,7 @@ sidebar:
   nav: "docs"
 ---
 
-<p><img src="../../media/image013.png" width="624" height="351" /></p>
+<p><img src="../media/image013.png" width="624" height="351" /></p>
 
 For production deployments, it is best practice that each plane runs on dedicated physical or virtual hosts. For development, multi-tenancy may be used to simplify management and reduce costs.
 Data Plane
