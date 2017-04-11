@@ -1,0 +1,46 @@
+docs:
+  - title: Deployment Strategies
+    children:
+      - title: "Hub & Spoke"
+        url: /deploymentstrategies/hands
+      - title: "Regional"
+        url: /deploymentstrategies/regional
+
+  - title: Scaling Rancher
+    url: /docs/scaling
+    children:
+      - title: "Proof of concept"
+        url: /scaling/poc
+      - title: "Non-Critical"
+        url: /scaling/nc
+      - title: "Highly Available"
+        url: /scaling/ha
+
+  - title: Kubernetes
+    children:
+      - title: "Planes"
+        url: /k8s/planes
+
+  - title: Kubernetes Deployment Types
+    children:
+      - title: "Standalone"
+        url: /k8s/standalone
+      - title: "Resilient Overlapping-Planes"
+        url: /k8s/resilientol
+      - title: "Resilient Separated-Planes"
+        url: /k8s/resilientsp
+
+  - title: Kubernetes Management
+    children:
+      - title: "Remote Backups"
+        url: /k8s/remotebackups
+      - title: "Deployment Migrations"
+        url: /k8s/migrations
+      - title: "Failure Recovery"
+        url: /k8s/failurerecovery
+      - title: "Disaster Recovery"
+        url: /k8s/disasterrecovery
+      - title: "Restoring Backups"
+        url: /k8s/restoringbackups
+      - title: "Tearing Down"
+        url: /k8s/tearingdown

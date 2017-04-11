@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: single
 title: Scaling Rancher
-permalink: /scaling/
+permalink: /docs/scaling/
+sidebar:
+  nav: "docs"
 ---
 
 Depending on your use case you should select one of the options below. Things to keep in mind though, is that Rancher servers need to have fast access to the MySQL database. Servers should not access databases outside of a region or metro area. The first bottleneck a user would hit coming from a POC/Hello World environment is likely to be database.
