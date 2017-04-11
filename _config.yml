@@ -112,7 +112,7 @@ author:
 include:
   - .htaccess
   - _posts
-  - /docs # ignore Minimal Mistakes /docs
+  - /_docs # ignore Minimal Mistakes /docs
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
