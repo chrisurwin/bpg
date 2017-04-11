@@ -147,7 +147,6 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Conversion
 markdown: kramdown
-<<<<<<< HEAD
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
@@ -180,9 +179,6 @@ timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
-=======
-theme: jekyll-theme-minimal
->>>>>>> 5cdeca0dcb3a29c39e3024dae37cb3463158bd5e
 gems:
   - jekyll-sitemap
   - jekyll-gist
