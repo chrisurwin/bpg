@@ -1,5 +1,6 @@
 ---
 layout: single
+author_profile: true
 title: Setting up non-critical Rancher Environments
 permalink: /scaling/nc
 sidebar:

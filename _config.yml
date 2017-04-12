@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : 
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/media/image015.png"
   bio              : 
   location         : 
   email            :
@@ -238,5 +238,6 @@ defaults:
       type: docs
     values:
       layout: single
+      author_profile: true
       sidebar:
         nav: "docs"

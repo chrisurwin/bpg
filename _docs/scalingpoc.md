@@ -1,5 +1,6 @@
 ---
 layout: single
+author_profile: true
 title: Rancher Proof of Concept/Home Lab/Hello World Environments
 permalink: /scaling/poc
 sidebar:

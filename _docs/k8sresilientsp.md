@@ -1,5 +1,6 @@
 ---
 layout: single
+author_profile: true
 title: Kubernetes - Resilient Separated Planes
 permalink: /k8s/resilientsp
 sidebar:

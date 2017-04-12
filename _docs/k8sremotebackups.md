@@ -1,5 +1,6 @@
 ---
 layout: single
+author_profile: true
 title: Kubernetes Setup & Management - Configuring Remote Backups
 permalink: /k8s/remotebackups
 sidebar:

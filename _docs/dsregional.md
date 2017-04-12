@@ -1,5 +1,6 @@
 ---
 layout: single
+author_profile: true
 title: Rancher Deployment Strategies - Regional
 permalink: /deploymentstrategies/regional
 sidebar:

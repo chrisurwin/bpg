@@ -1,5 +1,6 @@
 ---
 layout: single
+author_profile: true
 title: Kubernetes - Standalone
 permalink: /k8s/standalone
 sidebar:

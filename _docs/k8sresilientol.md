@@ -1,5 +1,6 @@
 ---
 layout: single
+author_profile: true
 title: Kubernetes - Resilient Overlapping Planes
 permalink: /k8s/resilientol
 sidebar:
