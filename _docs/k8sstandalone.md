@@ -6,13 +6,15 @@ sidebar:
   nav: "docs"
 ---
 
-
-Characteristics
-•	Simple, low-cost environment for development and training
-•	No resiliency to host failure
-•	Low performance
-Instructions
-1.	Create a Kubernetes environment.
-2.	Add 1 host with >=1 CPU and >=4GB RAM.
+<b>Characteristics</b><br>
+<li>Simple, low-cost environment for development and training</li>
+<li>No resiliency to host failure</li>
+<li>Low performance</li>
+<br>
+<b>Instructions<b>
+<ol>
+<li>Create a Kubernetes environment</li>
+<li>Add 1 host with >=1 CPU and >=4GB RAM</li>
+</ol>
 
 

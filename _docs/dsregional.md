@@ -7,7 +7,7 @@ sidebar:
 ---
 <p><img src="../media/image2.gif" width="624" height="261" /></p>
 <p>In the regional deployment model a control plane is deployed in close proximity to the compute nodes.</p>
-<p>Pros:</p>
-<p>Provisioning in regions stay functioning if a control plane in another region go down.</p>
-<p>Cons:</p>
-<p>Overhead of managing multiple Rancher installations.</p>
+<p><b>Pros:</b></p>
+<p><li>Provisioning in regions stay functioning if a control plane in another region go down.</li></p>
+<p><b>Cons:</b></p>
+<p><li>Overhead of managing multiple Rancher installations.</li></p>
