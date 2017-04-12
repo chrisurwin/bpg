@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 title: Kubernetes Setup & Management
-permalink: /k8s/planes
+permalink: /k8s/overview
 sidebar:
   nav: "docs"
 ---
@@ -11,8 +11,8 @@ sidebar:
 
 <p>For production deployments, it is best practice that each plane runs on dedicated physical or virtual hosts. For development, multi-tenancy may be used to simplify management and reduce costs.<br>
 <b>Data Plane</b><br>
-Comprised of one or more Etcd nodes which persist state regarding the Compute Plane. Resiliency is achieved by adding 3 hosts to this plane.
-Orchestration Plane
+Comprised of one or more Etcd nodes which persist state regarding the Compute Plane. Resiliency is achieved by adding 3 hosts to this plane.<br>
+<b>Orchestration Plane</b><br>
 Comprised of stateless Kubernetes/Rancher components which orchestrate and manage the Compute Plane:
 <li>apiserver</li>
 <li>scheduler</li>

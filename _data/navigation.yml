@@ -18,8 +18,8 @@ docs:
 
   - title: Kubernetes
     children:
-      - title: "Planes"
-        url: /k8s/planes
+      - title: "Management - Overview"
+        url: /k8s/overview
 
   - title: Kubernetes Deployment Types
     children:

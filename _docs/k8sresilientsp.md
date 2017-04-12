@@ -17,7 +17,7 @@ sidebar:
 <b>Instructions<b>
 <ol>
 <li>Create a Cattle environment</li>
-<li>Add 3 hosts with 1 CPU, >=1.5GB RAM, >=20GB DISK. Label these hosts etcd=true <ol type="i"><li> If you care about backups, see Configuring Remote Backups now.</li>
+<li>Add 3 hosts with 1 CPU, >=1.5GB RAM, >=20GB DISK. Label these hosts etcd=true <ol type="i"><li> If you care about backups, see <a href="./remotebackups">Configuring Remote Backups</a> now.</li>
 <li>If you don’t want pods scheduled on these hosts add label nopods=true.</li></ol></li>
 <li>Add 2 hosts with >=1 CPU and >=2GB RAM. Label these hosts orchestration=true <ol type="i"><li>If you don’t want pods scheduled on these hosts, add label nopods=true</li></ol></li>
 <li>Add 1+ hosts without any special labels. Resource requirements vary by workload.</li>
