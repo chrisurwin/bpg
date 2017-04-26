@@ -6,7 +6,7 @@ permalink: /deploymentstrategies/regional
 sidebar:
   nav: "docs"
 ---
-<p><img src="../media/image2.gif" width="624" height="261" /></p>
+<p><img src="../media/image003.png" width="624" height="261" /></p>
 <p>In the regional deployment model a control plane is deployed in close proximity to the compute nodes.</p>
 <p><b>Pros:</b></p>
 <p><li>Provisioning in regions stay functioning if a control plane in another region go down.</li></p>

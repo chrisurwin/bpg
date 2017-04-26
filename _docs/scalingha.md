@@ -10,7 +10,7 @@ sidebar:
 <p><img src="../media/image009.png" width="624" height="351" /></p>
 
 <p><b>Planning</b></p>
-<p>Rancher HA creates a cluster channel between cattle component at tcp port 9345. This channel is used to communicate cluster info and coordinate cattle nodes. 
+<p>Rancher HA creates a cluster channel between cattle components using tcp port 9345. This channel is used to communicate cluster info and coordinate cattle nodes. 
 Additionally, you need an external load balancer to distribute agents and users requests to all cattle backends.</p>
 <b>MySQL</b><br>
 Rancher Server uses MySQL as its back end database.  While setup and operations of an HA MySQL cluster is out of scope of this document, we do suggest a cluster of 3 MySQL servers. At least 1x primary server and 1x replica, 2x replicas would be preferred. Having a second replica allows you to have an HA cluster while one is performing backups or maintenance. In an HA setup, you should plan on having 50 connections per Rancher server to the database. We recommend a setting of at least 250 Max connections for any HA setup.<br>
